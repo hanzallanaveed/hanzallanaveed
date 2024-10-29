@@ -42,7 +42,7 @@
              alt="Email" height="30"/>
     </a>
     <a href="https://www.hanzallanaveed.com" target="blank">
-        <img src="https://img.shields.io/badge/website-00C2F3.svg?style=for-the-badge&logo=internet-explorer&logoColor=white"
+        <img src="https://img.shields.io/badge/website-black.svg?style=for-the-badge&logo=internet-explorer&logoColor=00C2F3"
              alt="Website" height="30"/>
     </a>
 </p>
