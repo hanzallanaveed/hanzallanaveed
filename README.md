@@ -32,14 +32,19 @@
 
 <div align="center">
   <h2>☎️ Contact Me</h2>
-  <p align="center">
+ <p align="center">
     <a href="https://www.linkedin.com/in/hanzalla-naveed/" target="blank">
-      <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-           alt="LinkedIn" height="30"/>
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+             alt="LinkedIn" height="30"/>
     </a>
     <a href="mailto:hanzallanaveed2001@gmail.com" target="blank">
-      <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-           alt="Email" height="30"/>
+        <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+             alt="Email" height="30"/>
     </a>
-  </p>
+    <a href="https://www.hanzallanaveed.com" target="blank">
+        <img src="https://img.shields.io/badge/website-000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white"
+             alt="Website" height="30"/>
+    </a>
+</p>
+
 </div>
