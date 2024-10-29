@@ -1,7 +1,7 @@
 <div align="center">
-<!--   <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> -->
+  <!--   <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> -->
   <h1 align="center">Hello, I'm Hanzalla Naveed</h1>
-  <h4 align="center">Im a Software Engineer from Ontario Tech University.</h4>
+  <h4 align="center">I'm a Software Engineer from Ontario Tech University.</h4>
 </div>
 
 <picture>
@@ -46,5 +46,5 @@
              alt="Website" height="30"/>
     </a>
 </p>
-
 </div>
+
