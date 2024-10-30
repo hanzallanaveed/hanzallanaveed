@@ -25,7 +25,7 @@
   <h2>💻 Languages & Tools</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,js,html,css,scss,php,nodejs,py,django,spring,ai,jquery,kotlin,nextjs,bootstrap,c,cs,cpp,dotnet,emacs,firebase,docker,express,java,ros,linux,bash,kafka,maven,mongodb,postgres,postman,mysql,firebase,tailwind,kubernetes,gcp,git,figma,flutter,arduino,raspberrypi,eclipse,idea,replit,github,vscode&perline=10" />
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,scss,php,nodejs,py,spring,ai,jquery,kotlin,nextjs,bootstrap,c,cs,cpp,dotnet,emacs,firebase,docker,express,java,linux,bash,mongodb,postgres,postman,mysql,firebase,tailwind,kubernetes,gcp,git,figma,eclipse,idea,replit,github,vscode&perline=10" />
     </a>
   </p>
 </div>
